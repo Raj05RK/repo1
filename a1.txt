@@ -1,1 +1,3 @@
 this is my first line in a1.txt
+hi i am rajkumar i am human
+now i am typing 3 rd line
